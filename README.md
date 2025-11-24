@@ -1,16 +1,9 @@
-## Hi there 👋
+# Week 5
 
-<!--
-**maggiee724/maggiee724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Module 6:
 
-Here are some ideas to get you started:
+Ny program defines an Item class that manages inventory by saving item details to a txt file and reading them back using C++ file io streams.
 
-- 🔭 I’m currently working on learning Python as a beginner. 
-- 🌱 I’m currently learning Python, and potentially C++.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about volleyball/calculus/art.
-- 📫 How to reach me: clee020@citymail.cuny.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Monster is my recent fav anime.
--->
+Module 11:
+
+My program creates a Product class to demonstrate how Constructors automatically initialize object data and Destructors clean up when an object is removed from memory.
