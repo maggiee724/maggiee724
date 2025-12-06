@@ -1,16 +1,12 @@
-## Hi there 👋
+## Week 7 – Module 4: Debugging and Logic
 
-<!--
-**maggiee724/maggiee724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This folder contains two C++ programs completed for Module 4.
 
-Here are some ideas to get you started:
+### menu.cpp
+This program demonstrates the use of if and else-if statements by creating a simple menu.  
+The user selects an option to add an item, view items, or exit the program.  
+It also handles invalid input by displaying an error message.
 
-- 🔭 I’m currently working on learning Python as a beginner. 
-- 🌱 I’m currently learning Python, and potentially C++.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about volleyball/calculus/art.
-- 📫 How to reach me: clee020@citymail.cuny.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Monster is my recent fav anime.
--->
+### largest.cpp
+This program asks the user to enter three numbers and determines the largest value.  
+Logical operators (&&) and conditional statements are used to correctly compare the inputs and display the highest number.
