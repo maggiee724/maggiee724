@@ -1,4 +1,4 @@
-# Week 7 – Pointers and Memory
+# Week 6 – Pointers and Memory
 
 This program uses a struct and dynamic memory to store items in an array.
 It lets the user search for an item by ID using binary search.
