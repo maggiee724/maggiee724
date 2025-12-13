@@ -1,16 +1,19 @@
-## Hi there 👋
+# Week 7 – Pointers and Memory
 
-<!--
-**maggiee724/maggiee724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This program uses a struct and dynamic memory to store items in an array.
+It lets the user search for an item by ID using binary search.
 
-Here are some ideas to get you started:
+## What it does
+- Dynamically allocates an array of items
+- Stores at least 100 sorted records
+- Searches by ID using binary search
+- Frees memory when done
 
-- 🔭 I’m currently working on learning Python as a beginner. 
-- 🌱 I’m currently learning Python, and potentially C++.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about volleyball/calculus/art.
-- 📫 How to reach me: clee020@citymail.cuny.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Monster is my recent fav anime.
--->
+## Files
+- Item.h
+- Item.cpp
+- main.cpp
+
+## Run
+g++ main.cpp Item.cpp -o search  
+./search
