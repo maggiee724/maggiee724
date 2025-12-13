@@ -1,16 +1,19 @@
-## Hi there 👋
+# Week 8 – Bank Account Simulation
 
-<!--
-**maggiee724/maggiee724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This program is a simple bank account simulation written in C++.  
+It uses a class to manage a balance and saves transactions to a file.
 
-Here are some ideas to get you started:
+## What it does
+- Lets you deposit money
+- Lets you make purchases
+- Prints the final balance
+- Saves all transactions to a text file
 
-- 🔭 I’m currently working on learning Python as a beginner. 
-- 🌱 I’m currently learning Python, and potentially C++.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about volleyball/calculus/art.
-- 📫 How to reach me: clee020@citymail.cuny.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Monster is my recent fav anime.
--->
+## Files
+- BankAccount.h
+- BankAccount.cpp
+- main.cpp
+
+## Run
+g++ main.cpp BankAccount.cpp -o bank  
+./bank
